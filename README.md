@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<!-- saved from url=(0030)https://github.com/RogerGaribello -->
+
 <html lang="es"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		
 		<title>Rogerboard: Git &amp; Github</title>
